@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/airflight-filter/static/css/main.ec3aeff4.css",
+    "main.js": "/airflight-filter/static/js/main.0aa472b2.js",
+    "static/media/clock.svg": "/airflight-filter/static/media/clock.209a935b0cf8ba83b8ada250728de504.svg",
+    "index.html": "/airflight-filter/index.html",
+    "main.ec3aeff4.css.map": "/airflight-filter/static/css/main.ec3aeff4.css.map",
+    "main.0aa472b2.js.map": "/airflight-filter/static/js/main.0aa472b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec3aeff4.css",
+    "static/js/main.0aa472b2.js"
+  ]
+}
